@@ -1,0 +1,8 @@
+{
+  "projectName": "RickAndMorty",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "yarn",
+  "hash": "6a60e7f6"
+}
